@@ -32,7 +32,7 @@ To play **Endless Hawaiian Run**, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/endless-hawaiian-run.git
+   git clone https://github.com/moesy/endless.git
    ```
 2. Open the project in Unity:
    - Ensure you have Unity installed on your machine. You can download it from the [Unity website](https://unity.com/).
